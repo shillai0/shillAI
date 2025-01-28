@@ -30,5 +30,6 @@ Hosting: Scalable and efficient backend ready for deployment
 Develop robust data collection pipelines to ensure accuracy and reliability.
 Build essential analytics tools for trend detection and predictive insights.
 Establish a scalable backend architecture to support future AI integrations.
+
 🤝 Contributions
 Contributions are welcome! Please fork the repository and submit a pull request for review.
