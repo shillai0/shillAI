@@ -19,11 +19,13 @@ Provide up-to-date and accurate insights into the cryptocurrency market.
 AI-Powered Analytics
 
 Identify emerging trends and detect market shifts with predictive analytics to stay ahead in the fast-paced world of digital currencies.
+
 🛠️ Technology Stack
 Backend Framework: Node.js with Express.js
 Data Integration: Axios for API communication with CoinGecko
 AI & Analytics: Advanced AI-driven algorithms (future integration)
 Hosting: Scalable and efficient backend ready for deployment
+
 🚧 Phase 1 Goals
 Develop robust data collection pipelines to ensure accuracy and reliability.
 Build essential analytics tools for trend detection and predictive insights.
